@@ -1,0 +1,165 @@
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\bin\Debug\Online Shopping Management.exe.config
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\bin\Debug\Online Shopping Management.exe
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\bin\Debug\Online Shopping Management.pdb
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online Shopping Management.csproj.AssemblyReference.cache
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.Properties.Resources.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.Start.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online Shopping Management.csproj.GenerateResource.cache
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online Shopping Management.csproj.CoreCompileInputs.cache
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online Shopping Management.exe
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online Shopping Management.pdb
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.ADMIN.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.ADMIN_PANEL.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.USER_CONTROL.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.CHECK_USER_STATUS.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.REMOVE_USER.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.USER_DETAILS.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.USER_REVIEW.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.SELLER_CONTROL.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.ADD_SELLER.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.APPROVE_PRODUCT.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.CHECK_STATUS.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.REMOVE_SELLER.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.SELLER_REVIEW.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.ADD_DELIVERY_PERSON.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.ASSIGN_DELIVERY.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.CHECK_DELIVERY_STATUS.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.DELIVERY_CONTROL.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.DELIVERY_PERSON_REVIEWS.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.REMOVE_DELIVERY_PERSON.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.DELIVERY_PERSON_SIGNUP.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.Log_IN.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.DELIVERY_PERSON_PANEL.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.PAST_DELIVERY.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.REMAINING_DELIVERY.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.UPDATE_INFORMATION.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.ACCOUNT_INFORMATION.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.HELP_SUPPORT.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.MY_CART.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.USER_PANEL.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.USER_SIGN_IN.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.USER_SIGN_UP.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.ADD_PRODUCT.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.REMOVE_PRODUCT.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.SELLER_LOG_IN.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.SELLER_PANEL.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.SHOW_ALL_PRODUCT.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.SIGN_UP.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.UPDATE_INFORMATION_SELLER.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.UPDATE_PRODUCT.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.UPDATE_USER_INFORMATION.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.USER_RESET_PASSWORD.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.PAYMENT_METHOD.resources
+C:\Users\Julfiqure Antor\Desktop\Project\Online Shopping Management\obj\Debug\Online_Shopping_Management.CARD_PAYMENT.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\bin\Debug\Online Shopping Management.exe.config
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\bin\Debug\Online Shopping Management.exe
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\bin\Debug\Online Shopping Management.pdb
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online Shopping Management.csproj.AssemblyReference.cache
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.ADMIN_PANEL.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.ADMIN.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.ADD_DELIVERY_PERSON.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.ASSIGN_DELIVERY.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.CHECK_DELIVERY_STATUS.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.DELIVERY_CONTROL.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.DELIVERY_PERSON_REVIEWS.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.REMOVE_DELIVERY_PERSON.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.ADD_SELLER.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.APPROVE_PRODUCT.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.CHECK_STATUS.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.REMOVE_SELLER.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.SELLER_REVIEW.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.CHECK_USER_STATUS.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.DELIVERY_PERSON_PANEL.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.DELIVERY_PERSON_SIGNUP.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.Log_IN.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.PAST_DELIVERY.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.REMAINING_DELIVERY.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.UPDATE_INFORMATION.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.CARD_PAYMENT.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.PAYMENT_METHOD.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.Properties.Resources.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.REMOVE_USER.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.SELLER_CONTROL.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.ADD_PRODUCT.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.REMOVE_PRODUCT.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.SELLER_LOG_IN.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.SELLER_PANEL.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.SHOW_ALL_PRODUCT.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.SIGN_UP.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.UPDATE_INFORMATION_SELLER.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.UPDATE_PRODUCT.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.Start.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.USER_CONTROL.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.USER_DETAILS.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.USER_REVIEW.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.ACCOUNT_INFORMATION.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.HELP_SUPPORT.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.MY_CART.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.UPDATE_USER_INFORMATION.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.USER_PANEL.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.USER_RESET_PASSWORD.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.USER_SIGN_IN.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.USER_SIGN_UP.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online Shopping Management.csproj.GenerateResource.cache
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online Shopping Management.csproj.CoreCompileInputs.cache
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online Shopping Management.exe
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online Shopping Management.pdb
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.SELLER_SHOP_ORDER.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.ORDERS.resources
+C:\Users\Julfiqure Antor\Desktop\Project\A-5_Online Shopping Management\Online Shopping Management\obj\Debug\Online_Shopping_Management.MY_ORDERS.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\bin\Debug\Online Shopping Management.exe.config
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\bin\Debug\Online Shopping Management.exe
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\bin\Debug\Online Shopping Management.pdb
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online Shopping Management.csproj.AssemblyReference.cache
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.ADMIN_PANEL.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.ADMIN.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.ADD_DELIVERY_PERSON.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.ASSIGN_DELIVERY.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.CHECK_DELIVERY_STATUS.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.DELIVERY_CONTROL.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.DELIVERY_PERSON_REVIEWS.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.REMOVE_DELIVERY_PERSON.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.ADD_SELLER.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.APPROVE_PRODUCT.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.CHECK_STATUS.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.REMOVE_SELLER.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.SELLER_REVIEW.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.CHECK_USER_STATUS.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.DELIVERY_PERSON_PANEL.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.DELIVERY_PERSON_SIGNUP.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.Log_IN.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.PAST_DELIVERY.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.REMAINING_DELIVERY.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.UPDATE_INFORMATION.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.SELLER_SHOP_ORDER.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.MY_ORDERS.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.ORDERS.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.CARD_PAYMENT.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.PAYMENT_METHOD.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.Properties.Resources.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.REMOVE_USER.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.SELLER_CONTROL.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.ADD_PRODUCT.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.REMOVE_PRODUCT.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.SELLER_LOG_IN.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.SELLER_PANEL.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.SHOW_ALL_PRODUCT.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.SIGN_UP.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.UPDATE_INFORMATION_SELLER.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.UPDATE_PRODUCT.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.Start.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.USER_CONTROL.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.USER_DETAILS.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.USER_REVIEW.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.ACCOUNT_INFORMATION.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.HELP_SUPPORT.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.MY_CART.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.UPDATE_USER_INFORMATION.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.USER_PANEL.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.USER_RESET_PASSWORD.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.USER_SIGN_IN.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online_Shopping_Management.USER_SIGN_UP.resources
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online Shopping Management.csproj.GenerateResource.cache
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online Shopping Management.csproj.CoreCompileInputs.cache
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online Shopping Management.exe
+C:\Users\Julfiqure Antor\Desktop\Finally\Online Shopping Management\obj\Debug\Online Shopping Management.pdb
