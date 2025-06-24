@@ -1,0 +1,523 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BA589380-9F23-4C21-BBC0-E8B6AE6561F1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Online_Shopping_Management</RootNamespace>
+    <AssemblyName>Online Shopping Management</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ADMIN\DELIVERY.CONTROL\ADD_DELIVERY_PERSON.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\DELIVERY.CONTROL\ADD_DELIVERY_PERSON.Designer.cs">
+      <DependentUpon>ADD_DELIVERY_PERSON.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\ADMIN_PANEL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\ADMIN_PANEL.Designer.cs">
+      <DependentUpon>ADMIN_PANEL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\ADMIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\ADMIN.Designer.cs">
+      <DependentUpon>ADMIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\SELLER.CONTROL\ADD_SELLER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\SELLER.CONTROL\ADD_SELLER.Designer.cs">
+      <DependentUpon>ADD_SELLER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\USER.CONTROL\CHECK_USER_STATUS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\USER.CONTROL\CHECK_USER_STATUS.Designer.cs">
+      <DependentUpon>CHECK_USER_STATUS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\USER.CONTROL\REMOVE_USER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\USER.CONTROL\REMOVE_USER.Designer.cs">
+      <DependentUpon>REMOVE_USER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\SELLER.CONTROL\SELLER_CONTROL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\SELLER.CONTROL\SELLER_CONTROL.Designer.cs">
+      <DependentUpon>SELLER_CONTROL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\SELLER.CONTROL\APPROVE_PRODUCT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\SELLER.CONTROL\APPROVE_PRODUCT.Designer.cs">
+      <DependentUpon>APPROVE_PRODUCT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\SELLER.CONTROL\CHECK_STATUS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\SELLER.CONTROL\CHECK_STATUS.Designer.cs">
+      <DependentUpon>CHECK_STATUS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\SELLER.CONTROL\REMOVE_SELLER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\SELLER.CONTROL\REMOVE_SELLER.Designer.cs">
+      <DependentUpon>REMOVE_SELLER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\SELLER.CONTROL\SELLER_REVIEW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\SELLER.CONTROL\SELLER_REVIEW.Designer.cs">
+      <DependentUpon>SELLER_REVIEW.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\DELIVERY.CONTROL\ASSIGN_DELIVERY.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\DELIVERY.CONTROL\ASSIGN_DELIVERY.Designer.cs">
+      <DependentUpon>ASSIGN_DELIVERY.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\DELIVERY.CONTROL\CHECK_DELIVERY_PERSON_STATUS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\DELIVERY.CONTROL\CHECK_DELIVERY_PERSON_STATUS.Designer.cs">
+      <DependentUpon>CHECK_DELIVERY_PERSON_STATUS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\DELIVERY.CONTROL\DELIVERY_PERSON_REVIEWS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\DELIVERY.CONTROL\DELIVERY_PERSON_REVIEWS.Designer.cs">
+      <DependentUpon>DELIVERY_PERSON_REVIEWS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\DELIVERY.CONTROL\REMOVE_DELIVERY_PERSON.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\DELIVERY.CONTROL\REMOVE_DELIVERY_PERSON.Designer.cs">
+      <DependentUpon>REMOVE_DELIVERY_PERSON.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\DELIVERY.CONTROL\DELIVERY_CONTROL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\DELIVERY.CONTROL\DELIVERY_CONTROL.Designer.cs">
+      <DependentUpon>DELIVERY_CONTROL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\SELLER.CONTROL\SELLER_SHOP_ORDER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\SELLER.CONTROL\SELLER_SHOP_ORDER.designer.cs">
+      <DependentUpon>SELLER_SHOP_ORDER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DELIVERY PERSON\DELIVERY_PERSON_PANEL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DELIVERY PERSON\DELIVERY_PERSON_PANEL.Designer.cs">
+      <DependentUpon>DELIVERY_PERSON_PANEL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DELIVERY PERSON\Log_IN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DELIVERY PERSON\Log_IN.Designer.cs">
+      <DependentUpon>Log_IN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DELIVERY PERSON\PAST_DELIVERY.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DELIVERY PERSON\PAST_DELIVERY.Designer.cs">
+      <DependentUpon>PAST_DELIVERY.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DELIVERY PERSON\REMAINING_DELIVERY.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DELIVERY PERSON\REMAINING_DELIVERY.Designer.cs">
+      <DependentUpon>REMAINING_DELIVERY.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DELIVERY PERSON\DELIVERY_PERSON_SIGNUP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DELIVERY PERSON\DELIVERY_PERSON_SIGNUP.Designer.cs">
+      <DependentUpon>DELIVERY_PERSON_SIGNUP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SELLER\ORDERS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SELLER\ORDERS.designer.cs">
+      <DependentUpon>ORDERS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="SELLER\ADD_PRODUCT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SELLER\ADD_PRODUCT.Designer.cs">
+      <DependentUpon>ADD_PRODUCT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SELLER\REMOVE_PRODUCT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SELLER\REMOVE_PRODUCT.Designer.cs">
+      <DependentUpon>REMOVE_PRODUCT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SELLER\SELLER_LOG_IN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SELLER\SELLER_LOG_IN.Designer.cs">
+      <DependentUpon>SELLER_LOG_IN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SELLER\SELLER_PANEL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SELLER\SELLER_PANEL.Designer.cs">
+      <DependentUpon>SELLER_PANEL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SELLER\SHOW_ALL_PRODUCT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SELLER\SHOW_ALL_PRODUCT.Designer.cs">
+      <DependentUpon>SHOW_ALL_PRODUCT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SELLER\SIGN_UP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SELLER\SIGN_UP.Designer.cs">
+      <DependentUpon>SIGN_UP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SELLER\UPDATE_INFORMATION_SELLER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SELLER\UPDATE_INFORMATION_SELLER.Designer.cs">
+      <DependentUpon>UPDATE_INFORMATION_SELLER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SELLER\UPDATE_PRODUCT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SELLER\UPDATE_PRODUCT.Designer.cs">
+      <DependentUpon>UPDATE_PRODUCT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Start.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Start.Designer.cs">
+      <DependentUpon>Start.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ADMIN\USER.CONTROL\USER_CONTROL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\USER.CONTROL\USER_CONTROL.Designer.cs">
+      <DependentUpon>USER_CONTROL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\USER.CONTROL\USER_DETAILS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\USER.CONTROL\USER_DETAILS.Designer.cs">
+      <DependentUpon>USER_DETAILS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\USER.CONTROL\USER_REVIEW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\USER.CONTROL\USER_REVIEW.Designer.cs">
+      <DependentUpon>USER_REVIEW.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DELIVERY PERSON\UPDATE_INFORMATION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DELIVERY PERSON\UPDATE_INFORMATION.Designer.cs">
+      <DependentUpon>UPDATE_INFORMATION.cs</DependentUpon>
+    </Compile>
+    <Compile Include="USER\ACCOUNT_INFORMATION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="USER\ACCOUNT_INFORMATION.Designer.cs">
+      <DependentUpon>ACCOUNT_INFORMATION.cs</DependentUpon>
+    </Compile>
+    <Compile Include="USER\CARD_PAYMENT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="USER\CARD_PAYMENT.Designer.cs">
+      <DependentUpon>CARD_PAYMENT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="USER\HELP_SUPPORT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="USER\HELP_SUPPORT.Designer.cs">
+      <DependentUpon>HELP_SUPPORT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="USER\MY_CART.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="USER\MY_CART.Designer.cs">
+      <DependentUpon>MY_CART.cs</DependentUpon>
+    </Compile>
+    <Compile Include="USER\MY_ORDERS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="USER\MY_ORDERS.Designer.cs">
+      <DependentUpon>MY_ORDERS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="USER\PAYMENT_METHOD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="USER\PAYMENT_METHOD.Designer.cs">
+      <DependentUpon>PAYMENT_METHOD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="USER\UPDATE_USER_INFORMATION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="USER\UPDATE_USER_INFORMATION.Designer.cs">
+      <DependentUpon>UPDATE_USER_INFORMATION.cs</DependentUpon>
+    </Compile>
+    <Compile Include="USER\USER_PANEL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="USER\USER_PANEL.Designer.cs">
+      <DependentUpon>USER_PANEL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="USER\USER_RESET_PASSWORD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="USER\USER_RESET_PASSWORD.Designer.cs">
+      <DependentUpon>USER_RESET_PASSWORD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="USER\USER_SIGN_IN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="USER\USER_SIGN_IN.Designer.cs">
+      <DependentUpon>USER_SIGN_IN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="USER\USER_SIGN_UP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="USER\USER_SIGN_UP.Designer.cs">
+      <DependentUpon>USER_SIGN_UP.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ADMIN\ADMIN_PANEL.resx">
+      <DependentUpon>ADMIN_PANEL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\ADMIN.resx">
+      <DependentUpon>ADMIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\DELIVERY.CONTROL\ADD_DELIVERY_PERSON.resx">
+      <DependentUpon>ADD_DELIVERY_PERSON.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\DELIVERY.CONTROL\ASSIGN_DELIVERY.resx">
+      <DependentUpon>ASSIGN_DELIVERY.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\DELIVERY.CONTROL\CHECK_DELIVERY_PERSON_STATUS.resx">
+      <DependentUpon>CHECK_DELIVERY_PERSON_STATUS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\DELIVERY.CONTROL\DELIVERY_CONTROL.resx">
+      <DependentUpon>DELIVERY_CONTROL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\DELIVERY.CONTROL\DELIVERY_PERSON_REVIEWS.resx">
+      <DependentUpon>DELIVERY_PERSON_REVIEWS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\DELIVERY.CONTROL\REMOVE_DELIVERY_PERSON.resx">
+      <DependentUpon>REMOVE_DELIVERY_PERSON.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\SELLER.CONTROL\ADD_SELLER.resx">
+      <DependentUpon>ADD_SELLER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\SELLER.CONTROL\APPROVE_PRODUCT.resx">
+      <DependentUpon>APPROVE_PRODUCT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\SELLER.CONTROL\CHECK_STATUS.resx">
+      <DependentUpon>CHECK_STATUS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\SELLER.CONTROL\REMOVE_SELLER.resx">
+      <DependentUpon>REMOVE_SELLER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\SELLER.CONTROL\SELLER_REVIEW.resx">
+      <DependentUpon>SELLER_REVIEW.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\USER.CONTROL\CHECK_USER_STATUS.resx">
+      <DependentUpon>CHECK_USER_STATUS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DELIVERY PERSON\DELIVERY_PERSON_PANEL.resx">
+      <DependentUpon>DELIVERY_PERSON_PANEL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DELIVERY PERSON\DELIVERY_PERSON_SIGNUP.resx">
+      <DependentUpon>DELIVERY_PERSON_SIGNUP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DELIVERY PERSON\Log_IN.resx">
+      <DependentUpon>Log_IN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DELIVERY PERSON\PAST_DELIVERY.resx">
+      <DependentUpon>PAST_DELIVERY.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DELIVERY PERSON\REMAINING_DELIVERY.resx">
+      <DependentUpon>REMAINING_DELIVERY.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DELIVERY PERSON\UPDATE_INFORMATION.resx">
+      <DependentUpon>UPDATE_INFORMATION.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\SELLER.CONTROL\SELLER_SHOP_ORDER.resx">
+      <DependentUpon>SELLER_SHOP_ORDER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SELLER\ORDERS.resx">
+      <DependentUpon>ORDERS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ADMIN\USER.CONTROL\REMOVE_USER.resx">
+      <DependentUpon>REMOVE_USER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\SELLER.CONTROL\SELLER_CONTROL.resx">
+      <DependentUpon>SELLER_CONTROL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SELLER\ADD_PRODUCT.resx">
+      <DependentUpon>ADD_PRODUCT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SELLER\REMOVE_PRODUCT.resx">
+      <DependentUpon>REMOVE_PRODUCT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SELLER\SELLER_LOG_IN.resx">
+      <DependentUpon>SELLER_LOG_IN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SELLER\SELLER_PANEL.resx">
+      <DependentUpon>SELLER_PANEL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SELLER\SHOW_ALL_PRODUCT.resx">
+      <DependentUpon>SHOW_ALL_PRODUCT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SELLER\SIGN_UP.resx">
+      <DependentUpon>SIGN_UP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SELLER\UPDATE_INFORMATION_SELLER.resx">
+      <DependentUpon>UPDATE_INFORMATION_SELLER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SELLER\UPDATE_PRODUCT.resx">
+      <DependentUpon>UPDATE_PRODUCT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Start.resx">
+      <DependentUpon>Start.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\USER.CONTROL\USER_CONTROL.resx">
+      <DependentUpon>USER_CONTROL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\USER.CONTROL\USER_DETAILS.resx">
+      <DependentUpon>USER_DETAILS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\USER.CONTROL\USER_REVIEW.resx">
+      <DependentUpon>USER_REVIEW.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USER\ACCOUNT_INFORMATION.resx">
+      <DependentUpon>ACCOUNT_INFORMATION.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USER\CARD_PAYMENT.resx">
+      <DependentUpon>CARD_PAYMENT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USER\HELP_SUPPORT.resx">
+      <DependentUpon>HELP_SUPPORT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USER\MY_CART.resx">
+      <DependentUpon>MY_CART.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USER\MY_ORDERS.resx">
+      <DependentUpon>MY_ORDERS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USER\PAYMENT_METHOD.resx">
+      <DependentUpon>PAYMENT_METHOD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USER\UPDATE_USER_INFORMATION.resx">
+      <DependentUpon>UPDATE_USER_INFORMATION.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USER\USER_PANEL.resx">
+      <DependentUpon>USER_PANEL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USER\USER_RESET_PASSWORD.resx">
+      <DependentUpon>USER_RESET_PASSWORD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USER\USER_SIGN_IN.resx">
+      <DependentUpon>USER_SIGN_IN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USER\USER_SIGN_UP.resx">
+      <DependentUpon>USER_SIGN_UP.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DATABASE\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\png-transparent-consumer-electronics-laptop-sagara-electronics-product-bundling-laptop-computer-network-electronics-computer-thumbnail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\grocery.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\Mom&amp;baby.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\motor&amp;tools.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\lifestyle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pictures\fashion-logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tamanna-rumee-eD1RNYzzUxc-unsplash.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sellerlogin.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
